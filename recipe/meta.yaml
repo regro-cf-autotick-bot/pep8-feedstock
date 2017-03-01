@@ -31,7 +31,7 @@ test:
 
 about:
   home: http://pep8.readthedocs.org/
-  license: MIT License
+  license: MIT
   summary: 'Python style guide checker'
 
 extra:
