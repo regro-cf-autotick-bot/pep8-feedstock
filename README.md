@@ -1,7 +1,7 @@
 About pep8
 ==========
 
-Home: http://pep8.readthedocs.org/
+Home: https://pep8.readthedocs.org/
 
 Package license: MIT
 
